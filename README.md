@@ -15,7 +15,11 @@
     - staging filrd
 - git commit -m "active voice and descriptive message"
     - version control
+    - computer id tracking number
     - message for our changes
 - git push origin branch-name
     - right now the branch name is main 
     - reconciles the diff between local and remote 
+
+### Assests
+- [India Cohort Syllabus] (https://github.com/learn-academy-2023-india/syllabus)
